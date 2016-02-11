@@ -72,6 +72,6 @@ public class Starship {
 		this.locationX-=10;
 		
 	}
-	//Yallah Client
+	//2-11-16 New
 	
 }
